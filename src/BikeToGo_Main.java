@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 public class BikeToGo_Main {
     static NewCustomer customer = new NewCustomer();
-    static final File filepath = new File("C:\\Users\\William\\Projects\\Ausbildung\\AS\\BikeToGo\\Files");
+    static final File filepath = new File("C:\\Users\\William\\Projects\\Ausbildung\\AS\\BikeToGo\\Files\\Customers");
 
 
     public static void main(String[] args) throws IOException {
@@ -29,9 +29,7 @@ public class BikeToGo_Main {
         // enable pretty printing
         mapper.enable(SerializationFeature.INDENT_OUTPUT);
 
-
         // serialize the object
-
 
 
         
