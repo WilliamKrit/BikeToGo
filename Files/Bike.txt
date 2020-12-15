@@ -1,0 +1,6 @@
+{
+  "id" : 1,
+  "model" : "TEST",
+  "price" : "$%",
+  "size" : " Bitte richtige größe auswählen"
+}

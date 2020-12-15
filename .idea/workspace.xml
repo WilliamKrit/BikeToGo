@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -25,6 +32,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.34252873" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
     <configuration name="Run" type="Application" factoryName="Application">
@@ -51,6 +59,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605732718796" />
+    <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607940592974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1607940592974" />
     <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605732714275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -59,22 +71,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1607242771689" />
-    <state width="1493" height="92" key="GridCell.Tab.0.bottom" timestamp="1605814396488">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608037140526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="92" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605814396488" />
-    <state width="1493" height="92" key="GridCell.Tab.0.center" timestamp="1605814396488">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608037140526" />
+    <state x="528" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607939929666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="92" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605814396488" />
-    <state width="1493" height="92" key="GridCell.Tab.0.left" timestamp="1605814396488">
+    <state x="528" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1607939929666" />
+    <state width="1493" height="111" key="GridCell.Tab.0.bottom" timestamp="1608040064600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="92" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605814396488" />
-    <state width="1493" height="92" key="GridCell.Tab.0.right" timestamp="1605814396488">
+    <state width="1493" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824/-667.-1440.3440.1400@0.0.1536.824" timestamp="1607907006307" />
+    <state width="1493" height="111" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608040064600" />
+    <state width="1493" height="111" key="GridCell.Tab.0.center" timestamp="1608040064599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="92" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605814396488" />
+    <state width="1493" height="187" key="GridCell.Tab.0.center/0.0.1536.824/-667.-1440.3440.1400@0.0.1536.824" timestamp="1607907006307" />
+    <state width="1493" height="111" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608040064599" />
+    <state width="1493" height="111" key="GridCell.Tab.0.left" timestamp="1608040064599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.0.left/0.0.1536.824/-667.-1440.3440.1400@0.0.1536.824" timestamp="1607907006307" />
+    <state width="1493" height="111" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608040064599" />
+    <state width="1493" height="111" key="GridCell.Tab.0.right" timestamp="1608040064600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="187" key="GridCell.Tab.0.right/0.0.1536.824/-667.-1440.3440.1400@0.0.1536.824" timestamp="1607907006307" />
+    <state width="1493" height="111" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608040064600" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1605732758989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -83,5 +107,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1605732755805" />
+    <state x="469" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1607939551214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="160" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1607939551214" />
   </component>
 </project>
